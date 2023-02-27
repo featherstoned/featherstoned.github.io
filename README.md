@@ -1,6 +1,6 @@
-## featherstoned.github.io
+# featherstoned.github.io
 
-# Nothing Fancy, Intro to Portfolio
+## Nothing Fancy, Intro to Portfolio
 
 
 
