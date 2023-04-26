@@ -12,7 +12,7 @@ I will continue to add to my portfolio as new projects are completed. I plan to 
 #### License
 <a href=https://choosealicense.com/licenses/mit/>MIT</a>
 
-Copyright (c) [2023] [Xochitl Mora]
+Copyright (c) 2023 Xochitl Mora
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
